@@ -2,6 +2,8 @@
 
 A bridge between the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove) family by the Seeed Studio and [Raspberry Pi](https://www.raspberrypi.org/) by the Raspberry Pi Foundation.
 
+![Grove Base for Raspberry Pi](Grove-Base-for-RasPi.jpg)
+
 ## Bill of Materials
 
 |Part/Designator|Manufacture Part Number/Seeed SKU|Quantity|
